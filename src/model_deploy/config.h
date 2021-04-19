@@ -57,7 +57,7 @@ struct Config {
 
         " * * * * * * * * \n\r",
         
-         "tick:\n\r"
+         "check:\n\r"
 
         "               * \n\r"
 
